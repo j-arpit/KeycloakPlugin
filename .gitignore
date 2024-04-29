@@ -1,0 +1,3 @@
+build/*
+KeycloakAuth.egg-info/*
+KeycloakAuth/__pycache__/*
